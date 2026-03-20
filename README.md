@@ -56,5 +56,4 @@ Built an interactive dashboard to help track sales performance, identify bottlen
 ---
 
 ## 🔗 Connect
-GitHub: https://github.com/purvivaja  
-LinkedIn: (add your link)
+GitHub: https://github.com/purvivaja 
